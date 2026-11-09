@@ -33,8 +33,12 @@ This project focuses on analyzing sales and profit performance using the Sample 
 
 ## Dataset
 The project uses the Sample Superstore dataset.
-
 [Dataset Source – Kaggle](https://www.kaggle.com/datasets/naveenkumar20bps1137/sample-superstore)
 
+## Project Status
+Completed – Excel Dashboard Project.
+
+## Dashboard Preview
+![Superstore Dashboard](superstore-dashboard.jpeg)
 ## Project Status
 Completed – Excel Dashboard Project.
